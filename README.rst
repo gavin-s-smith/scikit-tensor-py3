@@ -1,7 +1,9 @@
-#Fork README
+Fork README
+=============
 This is a maintenance version of the original to allow continued use in other projects. For new projects, this is not recommended. 
 
-# Original README
+Original README
+===================
 Note: this package is not maintained. It was mostly translated to
 Python 3 to enable installation of other packages that use
 scikit-tensor as a dependency. Please see if something like `TensorLy
